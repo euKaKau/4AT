@@ -25,3 +25,5 @@ Implementação básica	Construção das operações básicas e do menu.	✅ Con
 Testes e Validações	Verificação de desempenho e robustez.	✅ Concluído
 Documentação	Criação do README e comentários no código.	✅ Concluído
 Aprimoramento	Adição de funcionalidades extras (em progresso).	🔄 Contínuo
+
+
